@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MarvHetz
-- 👀 I’m interested into Solving Complex Problems
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Schoolprojects
+<b>👋 Hi, I’m @MarvHetz</b>
+Currently I am doing an apprentice ship at a school in Germany.
+So all most of my Repositories are only for me to work along from home.
 
 <!---
 MarvHetz/MarvHetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
