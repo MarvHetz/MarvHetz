@@ -1,6 +1,6 @@
 # 👋Hi, I’m @MarvHetz
 
-Currently I am doing an apprentice ship at a school in Germany, where I learn all the necessary skills to be a good programmer.
+Currently I am doing an apprenticeship at a school in Germany, where I learn all the necessary skills to be a good programmer.
 So most of my Repositories are only for me to work along from home.
 
 <!---
