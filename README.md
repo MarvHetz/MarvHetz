@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 # Here are some Stats about my Github
 ![Marv's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvhetz&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvhetz&show_icons=true&layout=compact&theme=dark&card_width=470)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marvhetz&show_icons=true&layout=compact&theme=dark&card_width=465)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages and Tools
 <div align="center">
