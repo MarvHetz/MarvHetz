@@ -7,3 +7,5 @@ So most of my Repositories are only for me to work along from home.
 MarvHetz/MarvHetz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Marv's GitHub stats](https://github-readme-stats.vercel.app/api?username=marvhetz&show_icons=true&theme=cobalt)
